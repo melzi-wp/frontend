@@ -1,0 +1,35 @@
+.user_card{
+    margin: 20px 30px;
+    padding: 15px;
+    box-shadow: 0px 1px 6px -4px #54595e;
+    width: 210px;
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+    border-radius: 10px;
+    gap: 5px;
+}
+
+.user_card_image{
+    overflow: hidden;
+    width: 40px;
+    height: 40px;
+}
+
+.user_card_image img{
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+}
+
+h3.user_name {
+    font-size: 14px;
+    margin: 0;
+}
+
+span.user_index{
+    font-size: 12px;
+    margin: 0;
+}
+

@@ -1,0 +1,59 @@
+.container{
+    width: 350px;
+    height: 500px;
+    background-color: aqua;
+    position: relative;
+    left: 35%;
+    top: 5rem;
+}   
+
+.register{
+    background-color: rgb(102, 161, 255);
+    width: auto;
+    height: 100%;
+    padding: 3rem;
+    
+}
+
+.register h1{
+    text-align: center;
+    color: rgb(56, 56, 56);
+    margin-bottom: 30px;
+}
+
+.register-contents{
+    padding:  0rem 2rem ;
+    height: auto;    
+}
+
+
+
+.form-content {
+    margin-bottom:1rem;
+}
+
+.form-content input{
+    border: solid #6c2a2a 0;
+    border-radius: 10px;
+    margin-top: 5px;
+    height: 30px;
+    padding-left: 1rem;
+}
+
+.form-content label{
+    margin-left: 2px;
+    color: rgb(254, 237, 237);
+}
+
+.btn{
+    text-align: center;
+    background-color: rgb(246, 225, 225);
+    border: solid #fff 0;
+    padding: 3px;
+    border-radius: 5px;
+    width: 80px;
+    position: relative;
+    left:25%;
+}
+
+
