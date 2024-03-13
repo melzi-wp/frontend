@@ -17,7 +17,7 @@ const DashNavbar = () => {
                 </div>
 
                 <button className='navbar_profile_button' >
-                    <FaPlusSquare size={14} style={{marginRight:'3px'}} /> Create
+                    <FaPlusSquare size={14} /> Create
                 </button> 
 
                 <div className='navbar_profile_image'>
